@@ -1,0 +1,8 @@
+dist/
+runtime/
+data/
+internal/payload/assets/ts3-client-win64.zip
+cmd/ts3-portable-launcher/resource.syso
+cmd/ts3-portable-launcher/resource.json
+payload/ts3-client-win64.zip
+launcher.log
